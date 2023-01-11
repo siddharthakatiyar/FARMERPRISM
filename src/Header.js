@@ -7,7 +7,7 @@ const Header = () => {
         <div class="container-fluid">
         <a class="navbar-brand" href="#">
         <img src="/logo.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top" />
-            <h1>FARMERPRISM</h1>
+            <h2>FARMERPRISM</h2>
         </a>
         </div>
 </nav>
