@@ -1,17 +1,25 @@
 import React from 'react';
 import './App.css';
-import Header from './Header';
-import Content from './Content';
-import Footer from './Footer';
+import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route }
+  from 'react-router-dom';
+import Home from './pages/index';
+import Agriculture from './pages/agriculture';
+import Medical from './pages/medical';
+import Finance from './pages/finance';
 
 function App() {
   return (
-    <div className="App">
-      
-      <Header />
-      <Content />
-      <Footer />
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path='/index' element={<Home />} />
+        <Route path='/agriculture' element={<Agriculture />} />
+        <Route path='/medical' element={<Medical />} />
+        <Route path='/finance' element={<Finance />} />
+
+      </Routes>
+    </Router>
   );
 }
 
