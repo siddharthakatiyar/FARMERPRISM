@@ -23,7 +23,7 @@ export default function App() {
 		<MDBNavbar expand='lg' light bgColor='#e0d9c7'>
 			<MDBContainer fluid>
 				<MDBNavbarBrand href='/'>
-					<img src="%PUBLIC_URL%/logo.png" alt='Logo' height='40' loading='lazy' />
+					<img src="/logo.png" alt='Logo' height='40' loading='lazy' />
 					 FARMERPRISM
 				</MDBNavbarBrand>
 			</MDBContainer>
