@@ -41,7 +41,7 @@ export default function App() {
               <MDBNavbarLink href='#'>About Us</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/pages/agriculture'>Agriculture</MDBNavbarLink>
+              <MDBNavbarLink href='/agriculture'>Agriculture</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
               <MDBNavbarLink href='/medical'>Medical</MDBNavbarLink>
