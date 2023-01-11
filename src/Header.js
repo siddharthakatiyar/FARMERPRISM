@@ -6,8 +6,8 @@ const Header = () => {
     <nav class="navbar bg-body-tertiary">
         <div class="container-fluid">
         <a class="navbar-brand" href="#">
-        <img src="/Logo.jpeg" alt="" width="150" height="150" class="d-inline-block align-text-top" />
-           <h1>FARMERPRISM</h1> 
+        <img src="/Logo.jpeg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top" />
+            <h1>FARMERPRISM</h1>
         </a>
         </div>
 </nav>
