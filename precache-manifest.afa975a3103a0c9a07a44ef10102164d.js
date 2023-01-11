@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "110acfc0ccadc78d217e",
+    "revision": "9c7ba5468622b9e4bfc3",
     "url": "/FARMERPRISM/static/css/main.11d832ee.chunk.css"
   },
   {
-    "revision": "110acfc0ccadc78d217e",
-    "url": "/FARMERPRISM/static/js/main.5148a16a.chunk.js"
+    "revision": "9c7ba5468622b9e4bfc3",
+    "url": "/FARMERPRISM/static/js/main.8882e324.chunk.js"
   },
   {
     "revision": "44283357878e613f016d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/FARMERPRISM/static/js/2.40b568f5.chunk.js"
   },
   {
-    "revision": "0f3c0473b8e52ccccadd247d6acc7527",
+    "revision": "442d9b097ef1339490c4bb12a2f253e4",
     "url": "/FARMERPRISM/index.html"
   }
 ];
