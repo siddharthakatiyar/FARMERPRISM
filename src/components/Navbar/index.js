@@ -41,15 +41,15 @@ export default function App() {
               <MDBNavbarLink href='/index'>About Us</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/agriculture'>Agriculture</MDBNavbarLink>
+              <MDBNavbarLink href='/agriculture'>AGRICULTURE</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/medical'>Medical</MDBNavbarLink>
+              <MDBNavbarLink href='/medical'>MEDICAL</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/finance'>Finance</MDBNavbarLink>
+              <MDBNavbarLink href='/finance'>FINANCE</MDBNavbarLink>
             </MDBNavbarItem>
-
+			
             
 
             
