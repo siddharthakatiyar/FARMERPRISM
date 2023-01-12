@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route }
 import Home from './pages/index';
 import Agriculture from './pages/agriculture';
 import Medical from './pages/medical';
-import Marketplace from './pages/marketplace/user/login';
+import Finance from './pages/finance';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         <Route exact path='/' element={<Home />} />
         <Route path='/agriculture' element={<Agriculture />} />
         <Route path='/medical' element={<Medical />} />
-        <Route path='/marketplace' element={<Marketplace />} />
+        <Route path='/finance' element={<Finance />} />
 
       </Routes>
     </Router>
