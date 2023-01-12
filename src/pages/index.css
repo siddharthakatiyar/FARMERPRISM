@@ -1,0 +1,61 @@
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.farmer-img{
+    padding: 8%;
+    width: 50%;
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+
+.farmer-intro{
+    padding: 8%;
+    width: 65%;
+    text-align: center;
+    font-weight: 500;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-top: 5%;
+    font-size: larger;
+}
+
+.about-us{
+    text-align: center;
+}
+
+.about-head{
+    font-weight: 500;
+    color: #396145;
+}
+
+.about{
+    padding: 8%;
+    padding-top: 2%;
+    font-size: large;
+    font-weight: 500;
+    color: #1d277a;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.5%;
+    text-align: center;
+    font-size: large;
+  }
+
+  @media (max-width:900px) {
+    .intro{
+        display: block;
+    }
+    .farmer-img{
+        width: 100%;
+    }
+    .farmer-intro{
+        width: 100%;
+        padding: 3%;
+    }
+  }

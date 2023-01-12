@@ -4,29 +4,31 @@
   "homepage": "https://siddharthakatiyar.github.io/FARMERPRISM",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
-    "icons": "^1.0.0",
-    "items": "^2.1.2",
     "jquery": "^3.6.3",
+    "mdb-react-ui-kit": "^5.1.0",
     "popper.js": "^1.16.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-google-login": "^5.2.2",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.2",
     "react-scripts": "2.1.8",
     "sass": "^1.57.1",
     "styled-components": "^5.3.6",
+    "swr": "^2.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-      "start": "react-scripts --openssl-legacy-provider start",
-      "build": "react-scripts --openssl-legacy-provider build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -48,8 +50,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.20.2",
     "gh-pages": "^4.0.0"
   }
 }

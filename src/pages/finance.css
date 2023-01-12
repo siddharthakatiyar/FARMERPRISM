@@ -1,0 +1,45 @@
+#text1 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: heading-line-height(1);
+    padding-top: 1.2rem;
+}
+
+#text2 {
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: left;
+    line-height: heading-line-height(1);
+}
+
+#text3 {
+    text-align: left;
+}
+
+#text4 {
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-align: left;
+    line-height: heading-line-height(1);
+}
+
+#image1 {
+    height: 20rem;
+}
+
+#image2 {
+    height: 15.5rem;
+    width: 90%;
+}
+
+#image3 {
+    height: 13rem;
+}
+
+#card1 {
+    width : 18rem;
+}
+
+#quote1 {
+    background: #20f491;
+}
