@@ -46,3 +46,16 @@ footer {
     text-align: center;
     font-size: large;
   }
+
+  @media (max-width:900px) {
+    .intro{
+        display: block;
+    }
+    .farmer-img{
+        width: 100%;
+    }
+    .farmer-intro{
+        width: 100%;
+        padding: 3%;
+    }
+  }

@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route }
 import Home from './pages/index';
 import Agriculture from './pages/agriculture';
 import Medical from './pages/medical';
-import Marketplace from './pages/marketplace/App';
+import Marketplace from './pages/marketplace/user/login';
 
 function App() {
   return (
