@@ -14,6 +14,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route exact path='/' element={<Home />} />
+        <Route path='/index' element={<Home />} />
         <Route path='/agriculture' element={<Agriculture />} />
         <Route path='/medical' element={<Medical />} />
         <Route path='/finance' element={<Finance />} />
