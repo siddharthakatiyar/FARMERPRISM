@@ -1,0 +1,295 @@
+.rates{
+    background-color: #435944;
+    margin-bottom: 0%;
+    display: flex;
+}
+
+.msp{
+    width: 50%;
+    padding: 3% 12%;
+    padding-left: 7%;
+}
+
+.cr{
+    width: 50%;
+    padding: 3% 12%;
+    padding-left: 3.5%;
+    padding-right: 7%;
+}
+
+.msp-head{
+    text-align: center;
+    color: #d5e3d6;
+    padding: 2%;
+    padding-left: 15%;
+}
+
+.cr-head{
+    text-align: center;
+    color: #d5e3d6;
+    padding: 2%;
+    padding-left: 1%;
+    padding-right: 10%;
+}
+
+.msp-img{
+    width: 115%;
+    height: 60%;
+}
+
+.cr-img{
+    width: 90%;
+    height: 59%;
+}
+
+.msp-info{
+    text-align: center;
+    color: #d5e3d6;
+    padding: 3%;
+    padding-left: 10%;
+}
+
+.cr-info{
+    text-align: center;
+    color: #d5e3d6;
+    padding: 3%;
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-bottom: 1%;
+}
+
+.msp-btn{
+    margin-left: 40%;
+}
+
+.cr-btn{
+    margin-left: 40%;
+}
+
+.calculate-head{
+    text-align: center;
+    padding: 3%;
+}
+
+.inputs{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 1%;
+}
+
+.ip{
+    display: flex;
+}
+
+.output{
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 0.5%;
+}
+
+.cbtn{
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 3%;
+}
+
+.calculate-btn{
+    padding-left: 45%;
+    padding-right: 45%;
+}
+
+.alter-tech{
+    text-align: center;
+    background-color: #b2dbb4;
+    padding-top: 4%;
+}
+
+.technique{
+    display: flex;
+}
+
+.perma-img{
+    width: 80%;
+    padding: 10%;
+    padding-right: 0%;
+    padding-bottom: 8%;
+}
+
+.perma-content{
+    width: 80%;
+    padding: 10%;
+    padding-top: 7%;
+    padding-left: 3%;
+    padding-bottom: 8%;
+    color: #435944;
+}
+
+.pond-content{
+    width: 60%;
+    padding: 10%;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 8%;
+    color: #435944;
+}
+
+.pond-img{
+    width: 120%;
+    padding: 8%;
+    padding-right: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.agro-img{
+    width: 80%;
+    padding: 8%;
+    padding-right: 0%;
+    padding-bottom: 8%;
+    padding-top: 0%;
+}
+
+.agro-content{
+    width: 80%;
+    padding: 10%;
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-bottom: 8%;
+    color: #435944;
+}
+
+.biodynamic-content{
+    width: 60%;
+    padding: 5%;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-bottom: 8%;
+    color: #435944;
+}
+
+.biodynamic-img{
+    width: 75%;
+    padding: 8%;
+    padding-right: 2%;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.aft-btns{
+    display: flex;
+    padding-left: 31%;
+}
+
+.read-btn{
+    margin: 2%;
+}
+
+.video-btn{
+    margin: 2%;
+}
+
+.btn-link-read{
+    color:#c1d6c2;
+    text-decoration: none;
+}
+
+.btn-link-read:hover{
+    color: whitesmoke;
+}
+
+.btn-link-read:visited{
+    text-decoration: none;
+}
+
+.btn-link-video{
+    color:#487548;
+    text-decoration: none;
+}
+
+.btn-link-video:hover{
+    color: white;
+}
+
+.btn-link-video:visited{
+    text-decoration: none;
+    color: #487548;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.5%;
+    text-align: center;
+    font-size: large;
+  }
+
+
+
+  @media (max-width: 900px) {
+    .rates{
+        display: block;
+        width: 100%;
+    }
+    .msp{
+        width: 65%;
+        padding: 3%;
+        padding-left: 10%;
+        padding-right: 0%;
+    }
+    .msp-head{
+        padding-left: 45%;
+        padding-right: 0%;
+    }
+    .msp-img{
+        padding-left: 25%;
+    }
+    .msp-info{
+        padding-left: 40%;
+        padding-right: 0%;
+    }
+    .msp-btn{
+        margin-left: 58.5%;
+    }
+    .cr{
+        width: 80%;
+        padding: 3%;
+        padding-left: 25%;
+    }
+    .cr-btn{
+        margin-left: 31%;
+    }
+
+    .technique{
+        display: block;
+    }
+    .perma-img{
+        padding-left: 2.5%;
+    }
+    .perma-content{
+        padding-top: 0.5%;
+        padding-right: 0%;
+        padding-left: 20%;
+    }
+    .pond-content{
+        width: 80%;
+        padding-right: 0%;
+        padding-left: 20%;
+    }
+    .pond-img{
+        width: 70%;
+        padding-top: 1%;
+    }
+    .agro-img{
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .agro-content{
+        padding-left: 18%;
+        padding-right: 0%;
+    }
+    .biodynamic-content{
+        width: 80%;
+        padding-right: 0%;
+        padding-left: 18%;
+    }
+  }

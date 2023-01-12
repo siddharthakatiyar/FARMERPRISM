@@ -4,6 +4,7 @@ import { Nav, NavLink, NavMenu }
 
 const Navbar = () => {
 return (
+	<>
 	<Nav>
 		<NavMenu>
         <NavLink to="/index" activeStyle>
@@ -19,7 +20,9 @@ return (
 			Finance
 		</NavLink>
 		</NavMenu>
+		
 	</Nav>
+	</>
 );
 };
 
