@@ -38,18 +38,18 @@ export default function App() {
 			<MDBCollapse navbar show={showBasic}>
           <MDBNavbarNav className='mr-auto text-nowrap mb-2 mb-lg-0'>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>About Us</MDBNavbarLink>
+              <MDBNavbarLink href='#'>ABOUT US</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/agriculture'>Agriculture</MDBNavbarLink>
+              <MDBNavbarLink href='/agriculture'>AGRICULTURE</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/medical'>Medical</MDBNavbarLink>
+              <MDBNavbarLink href='/medical'>MEDICAL</MDBNavbarLink>
             </MDBNavbarItem>
 			<MDBNavbarItem>
-              <MDBNavbarLink href='/finance'>Finance</MDBNavbarLink>
+              <MDBNavbarLink href='/marketplace'>MARKETPLACE</MDBNavbarLink>
             </MDBNavbarItem>
-
+			
             
 
             
