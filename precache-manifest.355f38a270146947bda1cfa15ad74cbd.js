@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "1672d3819f3b6e584a38",
-    "url": "/FARMERPRISM/static/css/main.36316608.chunk.css"
+    "revision": "8311c9a894bca57c4ef1",
+    "url": "/FARMERPRISM/static/css/main.07c489ad.chunk.css"
   },
   {
-    "revision": "1672d3819f3b6e584a38",
-    "url": "/FARMERPRISM/static/js/main.0111d4e4.chunk.js"
+    "revision": "8311c9a894bca57c4ef1",
+    "url": "/FARMERPRISM/static/js/main.6d259647.chunk.js"
   },
   {
     "revision": "44283357878e613f016d",
     "url": "/FARMERPRISM/static/js/runtime~main.d8f8aec8.js"
   },
   {
-    "revision": "95b9c554465afd2df74b",
-    "url": "/FARMERPRISM/static/js/2.a193447c.chunk.js"
+    "revision": "dc3d62352526dd7cf3ae",
+    "url": "/FARMERPRISM/static/js/2.77dd67a0.chunk.js"
   },
   {
     "revision": "73158afd96d36b0e51630173ee08c015",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/FARMERPRISM/static/media/circlerate.d0076a69.jpg"
   },
   {
-    "revision": "a7d24ee280c1bcd6318ec3226e0b5ebc",
+    "revision": "ed977584e62f4f471cca2e66f4d09e75",
     "url": "/FARMERPRISM/index.html"
   }
 ];

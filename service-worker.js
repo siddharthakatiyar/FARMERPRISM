@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FARMERPRISM/precache-manifest.f68f0774b6538e9c136e8cf4af663cee.js"
+  "/FARMERPRISM/precache-manifest.355f38a270146947bda1cfa15ad74cbd.js"
 );
 
 workbox.clientsClaim();
