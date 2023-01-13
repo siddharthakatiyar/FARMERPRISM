@@ -2,10 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: lightgoldenrodyellow;
 }
 
 .farmer-img{
-    padding: 8%;
+    padding: 3%;
     width: 50%;
     padding-bottom: 3%;
     padding-top: 5%;
@@ -24,6 +25,9 @@
 
 .about-us{
     text-align: center;
+    
+    background-color: lightgoldenrodyellow;
+
 }
 
 .about-head{
@@ -52,10 +56,10 @@ footer {
         display: block;
     }
     .farmer-img{
-        width: 100%;
+        width: 900%;
     }
     .farmer-intro{
-        width: 100%;
-        padding: 3%;
+        width: 200%;
+        padding: 20%;
     }
   }

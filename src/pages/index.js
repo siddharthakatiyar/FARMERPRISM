@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <div className='intro'>
         <img className='farmer-img' src={farmer} alt="" />
-        <p className='farmer-intro'>“Farmers are the backbone of India". Almost the entire economy is sustained by agriculture, which is the mainstay of the villages. It contributes 16% of the overall GDP and accounts for employment of approximately 52% of the Indian population. Rapid growth in agriculture is essential not only for self-reliance but also to earn valuable foreign exchange.
+        <p className='farmer-intro'><b><u><i>"IF YOU EAT TODAY,THANK A FARMER"</i></u></b><br/><br/>Farmers are the backbone of India. Almost the entire economy is sustained by agriculture, which is the mainstay of the villages. It contributes 16% of the overall GDP and accounts for employment of approximately 52% of the Indian population. Rapid growth in agriculture is essential not only for self-reliance but also to earn valuable foreign exchange.
         <br />  With provision of timely and adequate inputs such as fertilizers, seeds, pesticides and by making available affordable agricultural credit /crop insurance, Indian farmers are going to ensure food and nutritional security to the Nation.
         </p>
       </div>
