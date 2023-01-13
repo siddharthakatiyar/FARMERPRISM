@@ -28,12 +28,17 @@
 }
 
 #image2 {
-    height: 15.5rem;
-    width: 90%;
+    height: 15rem;
+    width: 17.85rem;
 }
 
 #image3 {
     height: 13rem;
+}
+
+#image4 {
+    height: 15.5rem;
+    width: 90%;
 }
 
 #card1 {
@@ -42,4 +47,8 @@
 
 #quote1 {
     background: #20f491;
+}
+
+#smt {
+    background-color: #fffbef;
 }

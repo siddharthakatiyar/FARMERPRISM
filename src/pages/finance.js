@@ -3,7 +3,7 @@ import './finance.css'
 
 const Home = () => {
     return (
-        <div>
+        <div id="smt">
             <div class="container">
                 <div class="display-3" id="money"><center>What is MONEY?</center></div>
                 <hr />
@@ -71,7 +71,7 @@ const Home = () => {
                     <div class="col">
                         <br />
                         <center>
-                            <img src="/img/bank.jpg" alt="bank" id="image2" />
+                            <img src="/img/bank.jpg" alt="bank" id="image4" />
                         </center>
                     </div>
                     <div class="col" id="text1">
