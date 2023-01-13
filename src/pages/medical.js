@@ -4,6 +4,7 @@ import './medical.css';
 const Home = () => {
   const today=new Date();
   return (
+    
     <div>
       <br />
       <h1 style={{ textAlign: "center" }}>
